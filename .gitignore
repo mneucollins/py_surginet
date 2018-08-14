@@ -1,5 +1,6 @@
 # local ignores
 /config/*
+/data/*
 
 
 #general python ignores
